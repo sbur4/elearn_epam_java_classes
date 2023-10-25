@@ -9,8 +9,8 @@ java {
     compileJava.options.encoding = 'UTF-8'
 }
 
-description = "EPAM eLearn Java classes"
-group = 'org.example'
+description = "EPAM eLearn Java.Classes"
+group = 'com.epam'
 version = '1.0-SNAPSHOT'
 
 repositories {
